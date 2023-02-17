@@ -4,3 +4,4 @@ bases:
   - ../base/
 patchesStrategicMerge:
   - nginx-dep.yaml
+  - demo-ns2.yaml
